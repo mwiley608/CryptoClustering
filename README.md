@@ -3,7 +3,7 @@ Bootcamp Module 19 Challenge
 
 The files contained in the CryptoClustering repository were created as an educational bootcamp project to use Python and unsupervised learning to predict cryptocurrencies are affected by 24-hour or 7-day price changes. This project requires the import of pandas, hvplot, scikit-learn to run. The crypto_market_data.csv file can be found in the Resources folder. 
 
-![plot](./Resources/crypto_plot.png)
+![plot](./Output/crypto_plot.png)
 
 To prepare the data from the csv file it was scaled for anlaysis. I created elbow plots to find the best k value for the data and then K-means to cluster the data into a scatter plot. 
 
