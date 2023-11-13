@@ -7,15 +7,15 @@ The files contained in the CryptoClustering repository were created as an educat
 
 To prepare the data from the csv file it was scaled for anlaysis. I created elbow plots to find the best k value for the data and then K-means to cluster the data into a scatter plot. 
 
-![elbow](./Resources/elbow_curve.png)
+![elbow](./Output/elbow_curve.png)
 
-![scatter](./Resources/scatter_plot.png)
+![scatter](./Output/scatter_plot.png)
 
 The clusters were then optimized using Principal Component Analysis and I repeated the elbow plot and scatter plot visualizations to then compare the two sets of visializations. 
 
-![pca_elbow](./Resources/pca_elbow_curve.png)
+![pca_elbow](./Output/pca_elbow_curve.png)
 
-![pca_scatter](./Resources/pca_scatter_plot.png)
+![pca_scatter](./Output/pca_scatter_plot.png)
 
 
 References: The fictional data used in this project was created by edEx Boot Camps LLC for educational purposes only.
